@@ -1,4 +1,4 @@
-# Weather App
+# Weather App ⛈
 
 <h3 align="left">Weather app from scratch using React JS, React Hook, Tailwind CSS and consuming an external API</h3>
 </p>
